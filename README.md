@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Chiko;Student+at+Telkom+University;Web+Developer+Enthusiast;Gamer+%26+Fitness+Lover" alt="Typing SVG" />
   </a>
 
-  <p><i>"Code like a pro, lift like a beast."</i> 🏋️‍♂️💻</p>
+  <p><i>"Gabut bang"</i> 😋😋</p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
