@@ -16,14 +16,17 @@
   <!-- Connect Socials -->
   <h3>🌐 Connect with Me</h3>
 
-  <a href="https://linkedin.com/in/m-chiko-dwikasa">
-    <img src="https://img.shields.io/badge/LinkedIn-M._Chiko_DwiKasa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://chiko11.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://instagram.com/USERNAME_INSTAGRAM_KAMU">
-    <img src="https://img.shields.io/badge/Instagram-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://linkedin.com/in/chiko11/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/m.chiko_dk/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://tiktok.com/@_chiko_011">
-    <img src="https://img.shields.io/badge/TikTok-chiko_11-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 
   <br><br>
@@ -43,18 +46,6 @@
   </p>
 
   <br>
-
-  <!-- GitHub Statistics -->
-  <h3>📊 GitHub Stats</h3>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Chik011&show_icons=true&theme=radical&count_private=true" height="170" alt="Chik011's Github Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chik011&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Langs" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chik011&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
