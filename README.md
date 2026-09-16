@@ -1,19 +1,22 @@
 <div align="center">
 
+  <!-- Typing SVG Banner -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Chiko;Student+at+Telkom+University;Web+Developer+Enthusiast;Gamer+%26+Fitness+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Chiko;I+am+studying+at+Telkom+University;Web+Developer+Enthusiast;Gamer+%26+Fitness+Lover" alt="Typing SVG" />
   </a>
 
-  <p><i>"Keep building, keep lifting, stay curious."</i> 🚀⚡</p>
+  <p><i>"This action will have consequences."</i> 🦋⚡</p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+  <!-- Quick Intro / About Me -->
   <p align="center">
     🎓 <b>Software Engineering Student</b> at Telkom University <br>
     💻 Passionate about Web Development, Android Apps, & Game Dev <br>
     🏋️ Workout Enthusiast | 🏍️ Vintage Bike Restorer | 📸 Outdoor Explorer
   </p>
 
+  <!-- Connect Socials -->
   <h3>🌐 Connect with Me</h3>
 
   <a href="https://yourportfolio.com">
@@ -31,6 +34,7 @@
 
   <br><br>
 
+  <!-- Tech Stack & Tools -->
   <h3>🛠️ Tech Stack & Tools</h3>
 
   <p>
@@ -46,6 +50,7 @@
 
   <br>
 
+  <!-- GitHub Statistics -->
   <h3>📊 GitHub Stats</h3>
 
   <p>
