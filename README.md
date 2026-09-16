@@ -4,31 +4,26 @@
   <h1>Hi, My Name is Chiko</h1>
   <p>I am studying at Telkom University</p>
 
-  <p><i>"This action will have consequences."</i></p>
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <!-- Quick Intro / About Me -->
   <p align="center">
     🎓 <b>Software Engineering Student</b> at Telkom University <br>
     💻 Passionate about Web Development, Android Apps, & Game Dev <br>
-    🏋️ Workout Enthusiast | 🏍️ Vintage Bike Restorer | 📸 Outdoor Explorer
+    🏋️ Gym | 🏍️ Biker | 📸 Fotografer | ⛺ Camper
   </p>
 
   <!-- Connect Socials -->
   <h3>🌐 Connect with Me</h3>
 
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  <a href="https://linkedin.com/in/m-chiko-dwikasa">
+    <img src="https://img.shields.io/badge/LinkedIn-M._Chiko_DwiKasa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com/in/USERNAME_KAMU">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://instagram.com/USERNAME_INSTAGRAM_KAMU">
+    <img src="https://img.shields.io/badge/Instagram-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://instagram.com/USERNAME_KAMU">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://tiktok.com/@USERNAME_KAMU">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  <a href="https://tiktok.com/@_chiko_011">
+    <img src="https://img.shields.io/badge/TikTok-chiko_11-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
 
   <br><br>
